@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "aaron-bond.better-comments",
+        "alefragnani.bookmarks",
+        "kevinghadyani.vscode-colormate",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "yzhang.markdown-all-in-one",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "johnpapa.vscode-peacock",
+        "tabnine.tabnine-vscode",
+        "enkia.tokyo-night",
+        "formulahendry.code-runner",
+        "codezombiech.gitignore"
+    ]
+}
