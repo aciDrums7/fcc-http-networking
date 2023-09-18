@@ -19,7 +19,9 @@ async function main() {
     if (!ipAddress) {
         console.log('something went wrong in fetchIPAddress')
     } else {
-        console.log(`found IP address for domain ${domain}: ${ipAddress}`)
+        console.log(
+            `found IP address for domain ${domain}: ${ipAddress}`
+        )
     }
 }
 
